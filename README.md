@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I`m <a href="https://xo4x4ww.github.io" target="_blank">xo4x4ww</a> ヾ(•ω•`)o</h1>
-<h3 align="center">ui/ux designer.</h3>
-```text                           ╱|、
-                                 (˚ˎ 。7  
-                                  |、˜〵          
-                                  じしˍ,)ノ
-```
+<h1 align="center">Hi, I`m <a href="https://xo4x4ww.github.io" target="_blank">xo4x4ww</a>ヾ(•ω•`)o</h1>
+<h3 align="center">ui/ux designer</h3>
+<pre>
+                            ╱|、
+                          (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ
+<pre>
